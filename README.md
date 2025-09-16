@@ -31,8 +31,8 @@ Este repositorio corresponde a un proyecto de análisis A/B realizado para compa
 - 3️⃣ Limpieza y transformación: estandarizar formatos, filtrar registros, imputar o eliminar valores faltantes.
 - 4️⃣ Cálculo de KPIs de negocio para cada variante (A vs B): conversiones, ingresos, etc.
 - 5️⃣ Análisis estadístico:
-- Pruebas de hipótesis para determinar si la diferencia entre A y B es significativa.
-- Cálculo de intervalos de confianza, p-valores, etc.
+  - Pruebas de hipótesis para determinar si la diferencia entre A y B es significativa.
+  - Cálculo de intervalos de confianza, p-valores, etc.
 - 6️⃣ Visualización comparativa de métricas y distribución de resultados.
 - 7️⃣ Interpretación de los resultados: ¿cuál variante ganó?, ¿cómo debería actuar el negocio?, ¿riesgos o limitaciones?
 
